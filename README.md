@@ -32,6 +32,9 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+Document Object Model so you can change structure, style, and content.
+represented as nodes and objects.
+
 2. What is an event?
 
 3. What is an event listener?
