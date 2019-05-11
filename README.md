@@ -49,6 +49,8 @@ NodeList have only certain set of methods while arrays have many more methods
 
 5. What is a component?
 
+a independent part of the application that handles one job and doesnt know about the rest.
+
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
