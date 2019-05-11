@@ -37,6 +37,8 @@ represented as nodes and objects.
 
 2. What is an event?
 
+event is something triggered by the user action, click, key press, etc.
+
 3. What is an event listener?
 
 4. Why would we convert a NodeList into an Array?
