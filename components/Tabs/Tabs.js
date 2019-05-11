@@ -11,12 +11,12 @@ class TabLink {
       this.cards = document.querySelectorAll(`.card`);
       console.log(this.cards);
 
-      //console.log(this.cards);
+
     } else {
 
       // else if `all` is false, only select the cards with matching this.tabData values
       this.cards = document.querySelectorAll(`.card[data-tab="${this.tabData}"]`);
-      //console.log(this.cards);
+
     }
 
     this.cards = Array.from(this.cards).map(card => new TabCard(card));
