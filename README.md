@@ -41,6 +41,8 @@ event is something triggered by the user action, click, key press, etc.
 
 3. What is an event listener?
 
+a function that is called on a specific event delivered to that target.
+
 4. Why would we convert a NodeList into an Array?
 
 5. What is a component?
