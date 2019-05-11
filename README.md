@@ -45,6 +45,8 @@ a function that is called on a specific event delivered to that target.
 
 4. Why would we convert a NodeList into an Array?
 
+NodeList have only certain set of methods while arrays have many more methods
+
 5. What is a component?
 
 ### Git Set up
