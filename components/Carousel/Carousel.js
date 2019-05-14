@@ -3,9 +3,7 @@ class Carousel {
     constructor(element) {
         this.element = element;
         this.leftButton = this.element.querySelector('.left-button');
-        console.log(this.leftButton);
         this.rightButton = this.element.querySelector('.right-button');
-        console.log(this.rightButton);
 
     }
 
