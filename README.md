@@ -32,18 +32,29 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+Document Object Model so you can change structure, style, and content.
+represented as nodes and objects.
+
 2. What is an event?
+
+event is something triggered by the user action, click, key press, etc.
 
 3. What is an event listener?
 
+a function that is called on a specific event delivered to that target.
+
 4. Why would we convert a NodeList into an Array?
+
+NodeList have only certain set of methods while arrays have many more methods
 
 5. What is a component?
 
+a independent part of the application that handles one job and doesnt know about the rest.
+
 ### Git Set up
 
-* [ ] Fork the project into your GitHub user account
-* [ ] Clone the forked project into a directory on your machine
+* [x] Fork the project into your GitHub user account
+* [x] Clone the forked project into a directory on your machine
 * [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
 * [ ] You are now ready to build this project with your preferred IDE
 
